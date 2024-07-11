@@ -33,16 +33,12 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/movierecommendersystem.git
-   cd movierecommendersystem
+   git clone https://github.com/Shivang-Patel/Movie-Recommendor-System.git
+   cd Movie-Recommendor-System
    ```
 
-2. **Install the required packages**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. **Download the dataset**:
+2. **Download the dataset**:
    Download the dataset from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and place it in the `data/` directory.
 
 ## Usage
@@ -62,7 +58,8 @@ Follow these steps to set up the project locally:
 
 Here is a short video demonstration of the Movie Recommender System in action:
 
-![Demo Video](./recording.gif)
+![recording](https://github.com/Shivang-Patel/Movie-Recommendor-System/assets/106246165/e182e592-2962-4dd5-a9b4-f2c24fa33ece)
+
 
 ## Contributing
 
