@@ -34,7 +34,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Shivang-Patel/Movie-Recommendor-System.git
-   cd Movie-Recommendor-System
+   cd files
    ```
 
 
@@ -44,7 +44,7 @@ Follow these steps to set up the project locally:
 ## Usage
 
 1. **Run the Jupyter notebook**:
-   Open and run the `notebook.ipynb` file to train the model and generate recommendations.
+   Open and run the `Movie_Recommender.ipynb` file to train the model and generate recommendations.
 
 2. **Start the application**:
    ```bash
